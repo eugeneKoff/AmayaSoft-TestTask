@@ -1,0 +1,1 @@
+# AmayaSoft-TestTask
