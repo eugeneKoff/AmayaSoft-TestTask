@@ -1,1 +1,1 @@
-# AmayaSoft-TestTask
+# AmayaSoft Test Task
